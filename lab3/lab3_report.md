@@ -35,7 +35,7 @@ Date of finished:
 ![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/c0827e83-1e80-4091-a298-79f12e9adba0)
 
 ### Шаг 6.
-Удаляем за собой
+Удаляем за собой \
 ![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/28bd204f-796c-4fc8-8a43-8c49903fbbcd)
 
 **Вывод:** В Google Cloud Storage Bucket можно хранить файлы и давать им разный уровень доступа
