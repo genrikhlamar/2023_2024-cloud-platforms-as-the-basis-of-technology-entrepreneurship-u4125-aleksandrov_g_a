@@ -10,7 +10,7 @@ Date of finished:
 
 ## Лабораторная работа №3 "Исследование Cloud Storage"
 ### Шаг 1.
-Во вкладке Cloud Storage в разделе Buckets, нажав на кнопку Create, создал свой Cloud Storage bucket и назвал его galeksandrov-bucket-lab3.
+Во вкладке Cloud Storage в разделе Buckets, нажав на кнопку Create, создал свой Cloud Storage bucket и назвал его galeksandrov-bucket-lab3. \
 ![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/5f33aa4c-5e6d-4a84-b554-b289a12d77f5)
 
 ### Шаг 2.
