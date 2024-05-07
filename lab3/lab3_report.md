@@ -4,7 +4,7 @@ Course: [Cloud platforms as the basis of technology entrepreneurship](https://it
 Year: 2024 \
 Group: U4125 \
 Author: Aleksandrov Genrikh Aleksandrovich \
-Lab: Lab2 \
+Lab: Lab3 \
 Date of create: 07.05.2024 \
 Date of finished: 
 
