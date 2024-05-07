@@ -6,7 +6,7 @@ Group: U4125 \
 Author: Aleksandrov Genrikh Aleksandrovich \
 Lab: Lab1 \
 Date of create: 05.05.2024 \
-Date of finished: 
+Date of finished: 07.05.2024 \
 
 ## Лабораторная работа №1 "Обзор Google Cloud и исследование основных сервисов."
 ### Шаг 1.
