@@ -26,9 +26,9 @@ Date of finished:
 
 ### Шаг 4.
 Зашел во вкладку IAM, Поменял права доступа своего сервис-аккаунта со Storage Admin на Compute Viewer. 
-![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/865e07a9-057c-4e09-b625-4d172b2e4335)
+![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/865e07a9-057c-4e09-b625-4d172b2e4335) \
 Нажал на кнопку SSH в разделе VM Instances, но зайти в консоль и что-либо сделать уже не получилось.
-![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/ef96fe93-f606-4600-8777-316d2c10bd85)
+![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/ef96fe93-f606-4600-8777-316d2c10bd85) 
 
 ### Шаг 5.
 Удалил за собой созданный ранее сервис.
