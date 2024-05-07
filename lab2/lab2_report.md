@@ -37,7 +37,7 @@ Date of finished:
 ![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/06cf691b-1ad7-468a-90bc-493beb9953a2) 
 
 ### Шаг 5.
-Удаляем за собой
+Удаляем за собой \
 ![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/1a72ae15-4532-4d2a-aa42-3760c3a9a9e2)
 
 
