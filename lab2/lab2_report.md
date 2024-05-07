@@ -6,7 +6,7 @@ Group: U4125 \
 Author: Aleksandrov Genrikh Aleksandrovich \
 Lab: Lab2 \
 Date of create: 06.05.2024 \
-Date of finished: 
+Date of finished: 07.05.2024 \
 
 ## Лабораторная работа №2 "Исследование Cloud Run"
 ### Шаг 1.
