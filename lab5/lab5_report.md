@@ -30,10 +30,11 @@ Date of finished:
 
 
 ### Шаг 4.
-Привязал GitHub аккаунт и свой GitHub репозиторий через панель инструментов и провел Backfill. 
+Привязал GitHub аккаунт и свой GitHub репозиторий через панель инструментов и провел Backfill на сегодняшнее число. 
 ![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/0e6f57c0-595c-4d5f-a77b-581d3163da61)
 
-![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/5b996ed5-cb19-4a8f-9bf4-45665d3e3b57)
+![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/cce0bcce-080a-4256-95a5-d0bb56e47b56)
+
 
 ### Шаг 5.
 **Автоматизации**
@@ -53,11 +54,16 @@ Date of finished:
 ССЫЛКА ВИДОС ЖЕСТКИЙ
 
 ### Шаг 9.
-9 Создать на GitHub ветку, посвященную тикету, проверить, что ее статус в Jira перешел в In Progress. Обратите внимание, что ветку нужно создать силами CLI/IDE, а не из Jira.
+Зашли через Termius в свой гитхаб-репозиторий. Создали тестовый файл для проверки, что все работает
+![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/2d38e382-01dc-41ed-9932-214196ebfefb)
+
+Создали в командной строке ветку, посвященную тикету. Проверили, что ее статус в Jira перешел в In Progress.
+ССЫЛКА НА ВИДЕОРОЛИК ЕБАТЬ Я ГЕНИЙ
 
 ### Шаг 10.
-10 Создать PR ветки в dev, проверить, что статус тикета в Jira перешел в On Check
+Создал PR-ветку в dev. Проверил, что статус тикета в Jira перешел в On Check
+ССЫЛКА
 
 ### Шаг 11.
-11 Принять PR, проверить, что статус тикета - Done
-
+Принял PR. Проверил, что статус тикета - Done
+ССЫЛ О Ч КА
