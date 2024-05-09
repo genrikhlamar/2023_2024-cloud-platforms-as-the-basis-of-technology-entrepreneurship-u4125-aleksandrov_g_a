@@ -46,24 +46,24 @@ Date of finished:
 Дальнейшие шаги скринкастами:
 
 ### Шаг 7.
-Создать тикет в бэклоге. 
-ССЫЛКА ВИДОРИК
+Создать тикет в бэклоге. \
+https://drive.google.com/file/d/1j6oaB2jy2_TX9jecCLEfuVC3dg8iDz1l/view?usp=drive_link
 
 ### Шаг 8.
-Создать спринт, переместить в него нашу задачу. Начать спринт.
-ССЫЛКА ВИДОС ЖЕСТКИЙ
+Создать спринт, переместить в него нашу задачу. Начать спринт.\
+https://drive.google.com/file/d/1MymO1BulJcpJi5HCioyXCTLb_8nUJHoS/view?usp=drive_link
 
 ### Шаг 9.
-Зашли через Termius в свой гитхаб-репозиторий. Создали тестовый файл для проверки, что все работает
+Зашли через Termius в свой гитхаб-репозиторий. Создали тестовый файл для проверки, что все работает\
 ![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/2d38e382-01dc-41ed-9932-214196ebfefb)
 
-Создали в командной строке ветку, посвященную тикету. Проверили, что ее статус в Jira перешел в In Progress.
-ССЫЛКА НА ВИДЕОРОЛИК ЕБАТЬ Я ГЕНИЙ
+Создали в командной строке ветку, посвященную тикету. Проверили, что ее статус в Jira перешел в In Progress.\
+https://drive.google.com/file/d/100lwjiMvK0_hO9AE1S8v4EvKEFvWVpGx/view?usp=drive_link
 
 ### Шаг 10.
-Создал PR-ветку в dev. Проверил, что статус тикета в Jira перешел в On Check
-ССЫЛКА
+Создал PR-ветку в dev. Проверил, что статус тикета в Jira перешел в On Check\
+https://drive.google.com/file/d/1iunPEF0EOdpMmVAh2KjJRNYZ6waF0AaH/view?usp=drive_link
 
 ### Шаг 11.
-Принял PR. Проверил, что статус тикета - Done
-ССЫЛ О Ч КА
+Принял PR. Проверил, что статус тикета - Done. Все сработало!\
+https://drive.google.com/file/d/11TN1dSQT7sIOAG6oUWJTS5gIkYR49flx/view?usp=drive_link
