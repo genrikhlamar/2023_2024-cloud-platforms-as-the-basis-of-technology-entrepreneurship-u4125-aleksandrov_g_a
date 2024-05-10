@@ -13,10 +13,11 @@ Date of finished: 07.05.2024
 **Описание:** Телеграм-бот/приложение, который парсит объявления по продаже бизнеса с онлайн-платформы Авито и раз в несколько часов присылает пользователю наиболее выгодное предложение.
 ### Инфраструктура
 **Схема:** 
-![image](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/417cfc01-cf1d-420c-9de3-e575171907de)
+![SXEMA](https://github.com/genrikhlamar/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-aleksandrov_g_a/assets/164926677/62842feb-ac23-43b4-b7fb-9844d5cdbf40)
+
 
 Парсер: Python-скрипт с использованием модуля Selenium для извлечения данных с Авито.\
-База данных: Хранилище данных о предложениях (цена, дата, регион и т.д).\
+База данных: (Google Cloud Firesore): NoSQL база данных о предложениях (цена, дата, регион и т.д).\
 Бэкенд (Google Cloud Functions): Обработка данных, расчёт выгодности, отправка уведомлений.\
 Планировщик (Cloud Scheduler): Запуск парсера по расписанию (например, раз в несколько часов).\
 Уведомления (Firebase Cloud Messaging): Отправка push-уведомлений о выгодных предложениях.\
