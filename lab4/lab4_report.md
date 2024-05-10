@@ -6,7 +6,7 @@ Group: U4125 \
 Author: Aleksandrov Genrikh Aleksandrovich \
 Lab: Lab4 \
 Date of create: 07.05.2024 \
-Date of finished: 
+Date of finished: 07.05.2024
 
 ## Лабораторная работа №4 "Разработка инфраструктуры MVP AI приложения."
 ### Идея
